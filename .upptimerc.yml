@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: buywithcrypto-status.pages.dev
-  baseUrl: /
+  baseUrl: https://buywithcrypto-status.pages.dev/
   logoUrl: https://buywithcrypto-hosting.pages.dev/website/assets/img/logo/logo-wb.svg
   favicon: https://buywithcrypto-hosting.pages.dev/website/assets/favicons/apple-touch-icon.png
   name: Status BuyWithCrypto
