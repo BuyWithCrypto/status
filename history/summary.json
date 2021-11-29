@@ -1,8 +1,8 @@
 [
   {
     "name": "BuyWithCrypto",
-    "url": "https://buywithcrypto.pages.dev/",
-    "icon": "https://favicons.githubusercontent.com/buywithcrypto.pages.dev",
+    "url": "https://buywithcrypto.fr/",
+    "icon": "https://favicons.githubusercontent.com/buywithcrypto.fr",
     "slug": "buy-with-crypto",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 136,
-    "timeWeek": 183,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "time": 122,
+    "timeDay": 148,
+    "timeWeek": 180,
+    "timeMonth": 122,
+    "timeYear": 122,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "CDN",
+    "url": "https://cdn.buywithcrypto.fr/up.txt",
+    "icon": "https://favicons.githubusercontent.com/cdn.buywithcrypto.fr",
+    "slug": "cdn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   }
 ]
