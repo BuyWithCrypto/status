@@ -4,8 +4,10 @@ repo: status # The name of this repository
 
 sites:
   - name: BuyWithCrypto
-    url: https://buywithcrypto.pages.dev/
-
+    url: https://buywithcrypto.fr/
+  - name: CDN
+    url: https://cdn.buywithcrypto.fr/up.txt
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -18,9 +20,9 @@ status-website:
   introMessage: "You can view the availability of our services in real time."
   navbar:
     - title: Home
-      href: https://buywithcrypto.pages.dev/
+      href: https://buywithcrypto.fr/
     - title: Status
-      href: https://buywithcrypto.github.io/status/
+      href: https://status.buywithcrypto.fr/
     - title: Twitter
       href: https://twitter.com/BWCBlockchain/
     - title: GitHub
