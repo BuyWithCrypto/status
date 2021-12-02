@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/buywithcrypto.fr",
     "slug": "buy-with-crypto",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.32%",
+    "uptimeDay": "85.35%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 131,
-    "timeDay": 250,
-    "timeWeek": 179,
+    "timeDay": 0,
+    "timeWeek": 187,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2021-12-01": 0
+      "2021-12-02": 72,
+      "2021-12-01": 139
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 100,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 125,
+    "timeDay": 108,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]
