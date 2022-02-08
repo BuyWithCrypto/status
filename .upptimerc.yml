@@ -8,7 +8,9 @@ sites:
   - name: Mobile Website
     url: https://mobile.buywithcrypto.fr/
   - name: DApp
-    url: https://app.buywithcrypto.fr/    
+    url: https://app.buywithcrypto.fr/
+  - name: Documentation
+    url: https://developers.buywithcrypto.fr/  
   - name: CDN
     url: https://cdn.buywithcrypto.fr/up.txt
     
