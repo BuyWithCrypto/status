@@ -10,7 +10,9 @@ sites:
   - name: DApp
     url: https://app.buywithcrypto.fr/
   - name: Documentation
-    url: https://developers.buywithcrypto.fr/  
+    url: https://developers.buywithcrypto.fr/
+  - name: Space Metaverse
+    url: https://space.buywithcrypto.fr/
   - name: CDN
     url: https://cdn.buywithcrypto.fr/up.txt
     
