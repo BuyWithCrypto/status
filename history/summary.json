@@ -4,19 +4,19 @@
     "url": "https://buywithcrypto.fr/",
     "icon": "https://favicons.githubusercontent.com/buywithcrypto.fr",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 205,
-    "timeWeek": 256,
-    "timeMonth": 257,
-    "timeYear": 262,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 263,
+    "timeDay": 229,
+    "timeWeek": 261,
+    "timeMonth": 259,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://mobile.buywithcrypto.fr/",
     "icon": "https://favicons.githubusercontent.com/mobile.buywithcrypto.fr",
     "slug": "mobile-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 105,
-    "timeWeek": 145,
-    "timeMonth": 139,
-    "timeYear": 132,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 135,
+    "timeDay": 136,
+    "timeWeek": 155,
+    "timeMonth": 142,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://app.buywithcrypto.fr/",
     "icon": "https://favicons.githubusercontent.com/app.buywithcrypto.fr",
     "slug": "d-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 125,
-    "timeWeek": 153,
-    "timeMonth": 139,
+    "timeDay": 133,
+    "timeWeek": 154,
+    "timeMonth": 140,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 8
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://developers.buywithcrypto.fr/",
     "icon": "https://favicons.githubusercontent.com/developers.buywithcrypto.fr",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 138,
-    "timeWeek": 150,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 144,
+    "timeDay": 130,
+    "timeWeek": 145,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 8
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://space.buywithcrypto.fr/",
     "icon": "https://favicons.githubusercontent.com/space.buywithcrypto.fr",
     "slug": "space-metaverse",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 99,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 141,
+    "timeDay": 129,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 8
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://cdn.buywithcrypto.fr/up.txt",
     "icon": "https://favicons.githubusercontent.com/cdn.buywithcrypto.fr",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 85,
-    "timeWeek": 121,
-    "timeMonth": 127,
+    "timeDay": 87,
+    "timeWeek": 119,
+    "timeMonth": 126,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 8
     }
   }
 ]
