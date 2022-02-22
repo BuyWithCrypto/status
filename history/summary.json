@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/buywithcrypto.fr",
     "slug": "website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 229,
-    "timeWeek": 261,
-    "timeMonth": 259,
+    "timeDay": 232,
+    "timeWeek": 259,
+    "timeMonth": 260,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2022-02-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mobile Website",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/mobile.buywithcrypto.fr",
     "slug": "mobile-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 135,
-    "timeDay": 136,
-    "timeWeek": 155,
-    "timeMonth": 142,
-    "timeYear": 135,
-    "dailyMinutesDown": {
-      "2022-02-21": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 134,
+    "timeDay": 128,
+    "timeWeek": 139,
+    "timeMonth": 140,
+    "timeYear": 134,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DApp",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/app.buywithcrypto.fr",
     "slug": "d-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 130,
-    "timeDay": 133,
-    "timeWeek": 154,
-    "timeMonth": 140,
-    "timeYear": 130,
-    "dailyMinutesDown": {
-      "2022-02-21": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 131,
+    "timeDay": 114,
+    "timeWeek": 156,
+    "timeMonth": 142,
+    "timeYear": 131,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/developers.buywithcrypto.fr",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 144,
-    "timeDay": 130,
-    "timeWeek": 145,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {
-      "2022-02-21": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 143,
+    "timeDay": 97,
+    "timeWeek": 146,
+    "timeMonth": 143,
+    "timeYear": 143,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Space Metaverse",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/space.buywithcrypto.fr",
     "slug": "space-metaverse",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 141,
-    "timeDay": 129,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
-    "dailyMinutesDown": {
-      "2022-02-21": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 138,
+    "timeDay": 117,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -105,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/cdn.buywithcrypto.fr",
     "slug": "cdn",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 123,
-    "timeDay": 87,
-    "timeWeek": 119,
-    "timeMonth": 126,
-    "timeYear": 123,
-    "dailyMinutesDown": {
-      "2022-02-21": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 122,
+    "timeDay": 93,
+    "timeWeek": 118,
+    "timeMonth": 127,
+    "timeYear": 122,
+    "dailyMinutesDown": {}
   }
 ]
