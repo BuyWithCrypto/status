@@ -13,6 +13,8 @@ sites:
     url: https://developers.buywithcrypto.fr/
   - name: Space Metaverse
     url: https://space.buywithcrypto.fr/
+  - name: Private Wallets
+    url: https://public.buywithcrypto.fr/
   - name: CDN
     url: https://cdn.buywithcrypto.fr/up.txt
     
