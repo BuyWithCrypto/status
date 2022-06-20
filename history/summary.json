@@ -22,19 +22,19 @@
     "url": "https://mobile.buywithcrypto.fr/",
     "icon": "https://favicons.githubusercontent.com/mobile.buywithcrypto.fr",
     "slug": "mobile-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 181,
-    "timeWeek": 174,
-    "timeMonth": 171,
+    "timeDay": 185,
+    "timeWeek": 176,
+    "timeMonth": 172,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-06-20": 0
+      "2022-06-20": 28
     }
   },
   {
